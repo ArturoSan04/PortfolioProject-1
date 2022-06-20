@@ -6,4 +6,4 @@ This project determines the amount of deaths across different countries of the w
 
 After cleaning the data, Tableau was used to create visualizations to represent findings
 
-# PortfolioProjects1
+# PortfolioProject1
